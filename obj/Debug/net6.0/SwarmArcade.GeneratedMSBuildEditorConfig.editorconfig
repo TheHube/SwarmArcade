@@ -15,6 +15,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\arhub\OneDrive\Desktop\CIDM 3312\SwarmArcade
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/arhub/OneDrive/Desktop/CIDM 3312/SwarmArcade/Pages/2048.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcMjA0OC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arhub/OneDrive/Desktop/CIDM 3312/SwarmArcade/Pages/ClumsyBird.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2x1bXN5QmlyZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/arhub/OneDrive/Desktop/CIDM 3312/SwarmArcade/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -29,6 +37,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/arhub/OneDrive/Desktop/CIDM 3312/SwarmArcade/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/arhub/OneDrive/Desktop/CIDM 3312/SwarmArcade/Pages/Swarm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3dhcm0uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/arhub/OneDrive/Desktop/CIDM 3312/SwarmArcade/Pages/_ViewImports.cshtml]
