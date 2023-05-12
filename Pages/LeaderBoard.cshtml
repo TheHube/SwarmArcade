@@ -1,0 +1,34 @@
+@page
+@model LeaderBoardModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to Swarm Arcade!</h1>
+    <p>Below is a list of our top rated players! Did you make it?</p>
+</div>
+<hr>
+<div class="container" style="border: 5px;">
+    <div class="row">
+        <div class="col-4">
+            <h2>Swarm</h2>
+            <ul>
+                @Html.Raw(Model.swarm_score)
+            </ul>
+        </div>
+        <div class="col-4">
+            <h2>Clumsy Bird</h2>
+            <ul>
+                @Html.Raw(Model.ClumsyBird_score)
+            </ul>
+        </div>
+        <div class="col-4">
+            <h2>2048</h2>
+            <ul>
+                @Html.Raw(Model._2048_score)
+            </ul>
+        </div>
+    </div>
+</div>
+
